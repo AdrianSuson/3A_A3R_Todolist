@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the "Todo List" project by Group 3 of the A3R section. This collaborative effort has resulted in a user-friendly Todo List app designed to enhance productivity and manage tasks efficiently. Our team Moh.Hashim, Rana; Peñaflo, Angel; Abdurasad, Allen S.; and Suson, Adrian DR. is excited to share this tool that combines simplicity with functionality. Explore our final presentation and download the latest version of the app to start organizing your daily activities more effectively.
+Welcome to the "Todo List" project of A3R. This collaborative effort has resulted in a user-friendly Todo List app designed to enhance productivity and manage tasks efficiently. Our team Moh.Hashim, Rana; Peñaflo, Angel; Abdurasad, Allen S.; and Suson, Adrian DR. is excited to share this tool that combines simplicity with functionality. Explore our final presentation and download the latest version of the app to start organizing your daily activities more effectively.
 
 ## Group Members
 
