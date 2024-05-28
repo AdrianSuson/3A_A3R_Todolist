@@ -7,7 +7,7 @@ Welcome to the "Todo List" project of A3R. This collaborative effort has resulte
 ## Group Members
 
 - Moh.Hashim, Rana
-- Peñaflo, Angel
+- Peñaflor, Angel
 - Abdurasad, Allen S.
 - Suson, Adrian DR.
 
